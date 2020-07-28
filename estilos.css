@@ -31,6 +31,9 @@ body{
     background-color: #f1f1f1;
     
 }
+.banner h2{
+    color: #016087;
+}
 .banner nav a{
 
     color: #016087;
@@ -193,7 +196,7 @@ margin-bottom: 15px;
     margin-bottom: 20px;
 }
 
-.n-service{
+.n-service{ 
     margin-bottom: 7px;
     color: #016087;
 }
@@ -436,6 +439,11 @@ footer{
     }
     .subtitulo{
         font-size: 30px;
+    }
+    .contenedor-boton{
+        width: 80%;
+        display: flex;
+        line-height: normal;
     }
     .img-galeria{
         width: 95%;
