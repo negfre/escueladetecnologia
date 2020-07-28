@@ -441,9 +441,9 @@ footer{
         font-size: 30px;
     }
     .contenedor-boton{
-        width: 80%;
-        display: flex;
-        line-height: normal;
+        width: 100%;
+        padding: 5px;
+        
     }
     .img-galeria{
         width: 95%;
